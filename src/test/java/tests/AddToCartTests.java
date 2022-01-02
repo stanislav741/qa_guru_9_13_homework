@@ -10,5 +10,6 @@ public class AddToCartTests {
     void addToCart() {
         Homepage.homepageOpen();
         Navbar.navbarSelectMac();
+        Navbar.navbarSelectMac();
     }
 }
