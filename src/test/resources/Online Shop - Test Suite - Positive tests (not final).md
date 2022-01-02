@@ -23,21 +23,14 @@ Steps:
 
 Expected results at step:
 
-#1 - The website is loaded, homepage is displayed
-
-#2 - “Mac” page is displayed
-
-#3 - “MacBook Pro” page is displayed
-
-#4 - “macbook-pro-14-and-16” page is displayed
-
-#5 - “select MacBook Pro model” page is displayed
-
-#6 - “16 Zoll” configurations are displayed, "Space Grau” color is selected by default for the “Better” config model
-
-#7 - “model configuration” page is displayed
-
-#8 - “select attachments” page is displayed, “16" MacBook Pro – Space Grau” model is displayed in the summary header
+1. The website is loaded, homepage is displayed
+2. “Mac” page is displayed
+3. “MacBook Pro” page is displayed
+4. “macbook-pro-14-and-16” page is displayed
+5. “select MacBook Pro model” page is displayed
+6. “16 Zoll” configurations are displayed, "Space Grau” color is selected by default for the “Better” config model
+7. “model configuration” page is displayed
+8. “select attachments” page is displayed, “16" MacBook Pro – Space Grau” model is displayed in the summary header
 
 **TC #1.2 ...**
 
