@@ -23,9 +23,9 @@ Steps:
 
 Expected results at step:
 
-1. The website is loaded, homepage is displayed
-2. “Mac” page is displayed
-3. “MacBook Pro” page is displayed
+1. The website is loaded
+2. “Mac” page is loaded, chapter navigation menu for MacBooks is visible
+3. “MacBook Pro” page is displayed, chapter navigation menu for MBP is visible
 4. “macbook-pro-14-and-16” page is displayed
 5. “select MacBook Pro model” page is displayed
 6. “16 Zoll” configurations are displayed, "Space Grau” color is selected by default for the “Better” config model
