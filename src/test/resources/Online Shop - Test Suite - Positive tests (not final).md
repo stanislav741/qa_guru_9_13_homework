@@ -28,7 +28,7 @@ Expected results at step:
 3. “MacBook Pro” page is displayed, chapter navigation menu for MBP is visible
 4. “macbook-pro-14-and-16” page is displayed
 5. “select MacBook Pro model” page is displayed
-6. “16 Zoll” configurations are displayed, "Space Grau” color is selected by default for the “Better” config model
+6. “16 Zoll” configurations are displayed
 7. “model configuration” page is displayed
 8. “select attachments” page is displayed, “16" MacBook Pro – Space Grau” model is displayed in the summary header
 
