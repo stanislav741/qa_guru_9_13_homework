@@ -23,7 +23,7 @@ Steps:
 
 Expected results at step:
 
-/# 1 - The website is loaded, homepage is displayed
+#1 - The website is loaded, homepage is displayed
 
 #2 - “Mac” page is displayed
 
