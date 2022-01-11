@@ -9,6 +9,7 @@ Preconditions:
 - Browser - Chrome
 - Website URL - [https://www.apple.com/de/](https://www.apple.com/de/)
 - User state - logged out (guest)
+- Cart state - empty
 
 Steps:
 
@@ -26,11 +27,11 @@ Expected results at step:
 1. The website is loaded
 2. “Mac” page is loaded, chapter navigation menu for MacBooks is visible
 3. “MacBook Pro” page is displayed, chapter navigation menu for MBP is visible
-4. “macbook-pro-14-and-16” page is displayed
-5. “select MacBook Pro model” page is displayed
-6. “16 Zoll” configurations are displayed
-7. “model configuration” page is displayed
-8. “select attachments” page is displayed, “16" MacBook Pro – Space Grau” model is displayed in the summary header
+4. “macbook-pro-14-and-16” page is visible
+5. “select MacBook Pro model” page is visible
+6. 16 inch - "Better" configuration is visible
+7. “model configuration” page is visible
+8. “select attachments” page is visible, “16" MacBook Pro – Space Grau” model is visible in the summary header
 
 **TC #1.2 ...**
 
