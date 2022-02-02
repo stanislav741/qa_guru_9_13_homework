@@ -26,14 +26,36 @@ Expected results at step:
 
 1. The website is loaded
 2. “Mac” page is loaded, chapter navigation menu for MacBooks is visible
-3. “MacBook Pro” page is displayed, chapter navigation menu for MBP is visible
-4. “macbook-pro-14-and-16” page is visible
-5. “select MacBook Pro model” page is visible
+3. “MacBook Pro” page is loaded, chapter navigation menu for MBP is visible
+4. “macbook-pro-14-and-16” page is loaded
+5. “select MacBook Pro model” page is loaded
 6. 16 inch - "Better" configuration is visible
-7. “model configuration” page is visible
-8. “select attachments” page is visible, “16" MacBook Pro – Space Grau” model is visible in the summary header
+7. “model configuration” page is loaded
+8. “select attachments” page is loaded, “16" MacBook Pro – Space Grau” model is visible in the summary header
 
-**TC #1.2 ...**
+**TC #1.2 AirPods - 3rd Generation - Default options**
+
+Preconditions:
+- Browser - Chrome
+- Website URL - [https://www.apple.com/de/](https://www.apple.com/de/)
+- User state - logged out (guest)
+- Cart state - empty
+
+Steps:
+
+1. Open the website
+2. On the homepage, at the top navigation menu, click “AirPods” button
+3. On the “AirPods” page, at the chapter navigation menu, click “AirPods 3. Generation” button
+4. On “AirPods (3. Generation)” page, at the chapter navigation menu, click “Kaufen” button
+5. On "AirPods (3. Generation) details" page, click "Hinzufügen" button
+
+Expected results at step:
+
+1. The website is loaded
+2. “AirPods” page is loaded, chapter navigation menu for AirPods is visible
+3. “AirPods (3. Generation)” page is loaded, chapter navigation menu for AirPods is visible
+4. "AirPods (3. Generation)" details" page is loaded
+5. "Shopping bag" page is loaded, "AirPods (3. Generation)" is visible in the summary
 
 ## 2. Checkout
 
