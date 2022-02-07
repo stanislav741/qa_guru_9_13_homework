@@ -18,6 +18,9 @@ public class ChapterNav {
         $(".chapternav-item-macbook-pro-14-and-16").click();
     }
 
-
+    @DisplayName("Select AirPods 3. Generation option from the Chapter Navbar")
+    public static void chapterNavSelectAirPods3() {
+        $(".chapternav-item-airpods-3gen").click();
+    }
 
 }

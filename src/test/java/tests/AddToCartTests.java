@@ -37,4 +37,15 @@ public class AddToCartTests {
         $(byXpath("//span[@data-autom='summaryHeaderTitle']")).shouldHave(text("16\" MacBook Pro – Space Grau"));
     }
 
+    @Test
+    void addToCartAirPods3() {
+        Homepage.homepageOpen();
+
+        Navbar.navbarSelectAirPods();
+        $(".chapternav-item-airpods-3gen").shouldBe(visible);
+
+        ChapterNav.chapterNavSelectAirPods3();
+        $(byText("AirPods (3. Generation)")).shouldBe(visible);
+
+    }
 }
