@@ -9,6 +9,6 @@ public class ActionTrayElement {
 
     @DisplayName("Click the purchase button on the bottom Action Tray")
     public static void actionTrayAddToCart() {
-        $(by("data-autom","addToCart")).click();
+        $(by("data-autom", "addToCart")).click();
     }
 }

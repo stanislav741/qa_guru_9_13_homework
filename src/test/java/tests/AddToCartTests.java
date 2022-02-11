@@ -51,7 +51,7 @@ public class AddToCartTests {
         LocalNavElement.localNavPurchaseAirPods3();
         $(byText("AirPods im Detail.")).shouldBe(visible);
 
-        $(by("data-autom","add-to-cart")).click();
+        $(by("data-autom", "add-to-cart")).click();
         $$(".rs-iteminfo-title").findBy(text("AirPods (3. Generation)")).shouldBe(visible);
 
     }
