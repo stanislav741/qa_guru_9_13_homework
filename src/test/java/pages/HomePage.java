@@ -1,9 +1,9 @@
-package pageobjects;
+package pages;
 
 import org.junit.jupiter.api.DisplayName;
 import static com.codeborne.selenide.Selenide.open;
 
-public class Homepage {
+public class HomePage {
 
    static String url = "https://www.apple.com/de/";
 

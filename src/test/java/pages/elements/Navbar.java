@@ -1,4 +1,4 @@
-package pageobjects;
+package pages.elements;
 
 import org.junit.jupiter.api.DisplayName;
 import static com.codeborne.selenide.Selenide.$;
