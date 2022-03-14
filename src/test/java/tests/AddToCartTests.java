@@ -55,4 +55,9 @@ public class AddToCartTests {
         $$(".rs-iteminfo-title").findBy(text("AirPods (3. Generation)")).shouldBe(visible);
 
     }
+
+    @Test
+    void addToCartiPadPro12() {
+
+    }
 }
